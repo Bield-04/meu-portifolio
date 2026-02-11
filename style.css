@@ -22,9 +22,12 @@ h2 {
 a {
     color: red;
 }
+a.Jogos {
+    color: rgb(59, 41, 41);
+}
 b {
     color: cyan;
 }
 a.Mercado {
-    color: white;
+    color: rgb(59, 41, 41);
 }
