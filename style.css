@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+    
+}
+h1 {
+    color: azure;
+}
+hr {
+    border-color: azure;
+    border: 3px solid color white;
+}
+p {
+    color: azure;
+    font: 1em sans-serif;
+}
+ul {
+    color: ghostwhite;
+}
+h2 {
+    colOR: white;
+}
+a {
+    color: red;
+}
+b {
+    color: cyan;
+}
+a.Mercado {
+    color: white;
+}
